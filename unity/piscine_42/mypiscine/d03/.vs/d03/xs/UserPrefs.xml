@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{C280B0E3-325A-8F8F-FF96-F402E2906DF8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RBScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ButtonSelect.cs" Line="36" Column="6" />
+      <File FileName="Assets/Scripts/gameManager.cs" Line="38" Column="11" />
+      <File FileName="Assets/Scripts/GetTurretData.cs" Line="31" Column="37" />
+      <File FileName="Assets/Scripts/TurretSelect.cs" Line="39" Column="29" />
+      <File FileName="Assets/Scripts/towerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Shader/OutlineScript.cs" Line="6" Column="37" />
+      <File FileName="Assets/Scripts/ennemyScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GetPlayerInfo.cs" Line="34" Column="50" />
+      <File FileName="Assets/Scripts/EscapeMenu.cs" Line="38" Column="1" />
+      <File FileName="Assets/Scripts/GBScript.cs" Line="7" Column="1" />
+      <File FileName="Assets/Scripts/RBScript.cs" Line="71" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
